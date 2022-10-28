@@ -15,3 +15,5 @@ npx sequelize model:generate --name User --attributes name:STRING,email:STRING,p
 ````
 npx sequelize db:migrate
 ````
+
+<a href="https://www.rapilist.com/">Crear tu tienda Online</a>
